@@ -1,3 +1,3 @@
-const config = require('./config.json.js');
+const config = require('./config.json');
 
 module.exports = config;
