@@ -139,7 +139,7 @@ app
     }
   });
 
-client.login(config.token);
+client.login(config.discord.token);
 
 const http = app.listen(config.webserver.port);
 
